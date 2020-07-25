@@ -60,11 +60,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/quadrified"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/steam.svg" width="30px" alt="Steam"></a> &nbsp; &nbsp;
   <a href="https://www.instagram.com/yel0210"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/ArielAustria"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
   <a href="https://api.whatsapp.com/send?phone=+917330770559"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
-  <a href="https://stackoverflow.com/users/2268145/yel"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/stackoverflow.svg" width="30px" alt="Stackoverflow"></a> &nbsp; &nbsp;
 </p>
 
 <p align="center">

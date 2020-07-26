@@ -6,7 +6,7 @@
     <br><br>
     Future Mobile :iphone: developer!
     <br><br>
-    "You can't be held captive by the fear of failure or the fear of what people may say."
+    "You can't be held captive by the fear of failure or the fear of what people may say. - Koby Bryant"
     <br><br>
     P.S. My goal is to become a fullstack mobile developer :v:
   </samp>

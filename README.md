@@ -21,7 +21,7 @@
   
   [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=vel02&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vel02)](https://github.com/anuraghazra/github-readme-stats) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vel02&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
   
 *************
 

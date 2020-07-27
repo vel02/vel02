@@ -19,10 +19,9 @@
   
   <br>
   
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=vel02&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=vel02&count_private=true&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vel02&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vel02)](https://github.com/anuraghazra/github-readme-stats)
 *************
 
 ### Languages and Tools...
@@ -54,7 +53,9 @@
   - Adding databases to my skill set (SQL).
   
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vel02&repo=Top-Rated-Movies)](https://github.com/anuraghazra/github-readme-stats) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vel02&repo=Flickr-Browser)](https://github.com/anuraghazra/github-readme-stats)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vel02&repo=Note-with-Testing)](https://github.com/anuraghazra/github-readme-stats)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vel02&repo=Top-Rated-Movies)](https://github.com/anuraghazra/github-readme-stats) 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vel02&repo=Flickr-Browser)](https://github.com/anuraghazra/github-readme-stats) 
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vel02&repo=Note-with-Testing)](https://github.com/anuraghazra/github-readme-stats)
 
 ----
 

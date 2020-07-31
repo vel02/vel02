@@ -14,7 +14,7 @@
 
 <br>
 
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Things to know about me! </b> </summary>
   
   <br>
  

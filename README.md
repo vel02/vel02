@@ -14,13 +14,13 @@
 
 <br>
 
-<details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   <br>
-  
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=vel02&count_private=true&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
+ 
+  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=vel02&count_private=true&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+ 
+### Languages...
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vel02&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 *************
 
@@ -59,7 +59,6 @@
 
 ----
 
-</details>
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>

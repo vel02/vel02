@@ -14,9 +14,9 @@
 
 <br>
 
-  <summary> <b> Things to know about me! </b> </summary>
-  
-  <br>
+<summary> <b> Things to know about me! </b> </summary> 
+
+<br>
  
   [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=vel02&count_private=true&show_icons=true&&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
  

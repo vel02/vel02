@@ -48,7 +48,6 @@
   - Learning Kotlin Language (OOP).
   - Adding databases to my skill set (SQL).
   
-  
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vel02&repo=Top-Rated-Movies)](https://github.com/vel02/Top-Rated-Movies) 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vel02&repo=Flickr-Browser)](https://github.com/vel02/Flickr-Browser) 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vel02&repo=Note-with-Testing)](https://github.com/vel02/Note-with-Testing)

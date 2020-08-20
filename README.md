@@ -60,8 +60,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/yel0210"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/ArielAustria"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter"></a> 
+  <a href="https://www.instagram.com/yel0210"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/ArielAustria"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg" width="30px" alt="Twitter"></a> 
 &nbsp; &nbsp;
 </p>
 
